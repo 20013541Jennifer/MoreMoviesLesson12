@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">movies</string>
+    <string name="title">Movie title</string>
+    <string name="titleIN">Enter movie title here</string>
+    <string name="genre">Genre</string>
+    <string name="genreIN">Enter genre here</string>
+    <string name="year">Year</string>
+    <string name="yearIN">Enter year of release here</string>
+    <string name="insert">Insert</string>
+    <string name="list">Show list</string>
+    <string name="btnView">Show all movies with this rating</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDel">Delete</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="id">movie ID</string>
+    <string name="rating">Rating</string>
+    <string-array name="ratings">
+        <item>G</item>
+        <item>PG</item>
+        <item>PG13</item>
+        <item>NC16</item>
+        <item>M18</item>
+        <item>R21</item>
+    </string-array>
+
+</resources>
